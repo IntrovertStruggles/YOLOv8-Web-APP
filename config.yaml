@@ -1,8 +1,0 @@
-
-path: D:\Download(D)\YOLO_V8_CUSTOM_MODEL\code\data #dir
-train: images\train
-val: images\train
-
-#class
-names:
-  0: baby_catfish
